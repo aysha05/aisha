@@ -9,7 +9,7 @@ Skills: HTML5 || CSS3 || JavaScript || JAVA || SQL || C++ || C || MySQL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abhijeetsinha471)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhijeet-sinha-987410162//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_abhijeetsinha_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/ABHI_1458)  
 
 
-- 🔭 I’m currently working on New projects and Assignments 
+- 🔭 I’m currently working on New projects  
 - 🌱 I’m currently learning Full-Stack-Web Development with MERN Stack. 
 - 📫 How to reach me: aishwaryakale009@gmail.com 
 
